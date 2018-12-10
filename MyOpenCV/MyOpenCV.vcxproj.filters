@@ -21,9 +21,15 @@
     <ClCompile Include="Morphological.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="filter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Morphological.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="filter.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

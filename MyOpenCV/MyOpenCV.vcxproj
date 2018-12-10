@@ -146,10 +146,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="filter.cpp" />
     <ClCompile Include="Morphological.cpp" />
     <ClCompile Include="Morphological_Operations.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="filter.h" />
     <ClInclude Include="Morphological.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
